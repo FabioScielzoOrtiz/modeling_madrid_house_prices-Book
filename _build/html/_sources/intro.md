@@ -1,30 +1,30 @@
 # Modeling Madrid House Prices
 
-➡️ Modeling Madrid House prices
+➡️ Modeling housing prices in Madrid
 
-🔻 Objetivo:
+🔻 Objective:
 
-🔸 Analizar cómo influyen una serie de variables en el precio de las viviendas de Madrid, y seleccionar las que mejor lo predicen, usando el modelo de regresión lineal como base.
+🔸 Analyze how a series of variables influence the price of housing in Madrid, and select those that best predict it, using the linear regression model as a basis.
 
-🔻 Desarrollos:
+🔻 Developments:
 
-️🔸 Data cleaning y preprocessing.
+️🔸 Data cleaning and preprocessing.
 
-️🔸 Exploratory Data Analysis para visualizar de forma preliminar relaciones entre la reapuesta y los predictores.
+️🔸 Exploratory data analysis to preliminarily visualize relationships between the reassessment and the predictors.
 
-️🔸 Presentación del modelo de Regresión de Lineal.
+️🔸 Presentation of the Linear Regression model.
 
-️🔸 Adapatación de la implementación del modelo de Regresión Lineal del framework Statsmodels para incluir interacciones y dummy variables para las variables categoricas de forma automatizada
+️🔸 Adaptation of the implementation of the Linear Regression model of the Statsmodels framework to include interactions and dummy variables for categorical variables in an automated way
 
-️🔸 Desarrollo de métodos automarizadoa para la selección de predictores, basados en significance test, Likelihood ratio test, forward, backward y best subset selection algorithms.
+️🔸 Development of automated methods for the selection of predictors, based on significance test, likelihood ratio test, forward, backward and best subset selection algorithms.
 
-️🔸 Selección del mejor modelo usando KFold Cross Validation.
+️🔸 Selection of the best model using KFold Cross Validation.
 
-️🔸 Estimación de future performance para el mejor modelo.
+️🔸 Estimation of future performance for the best model.
 
-️🔸 Calculo de intervalos de predicción.
+️🔸 Calculation of prediction intervals.
 
-️🔸 Interpretación de los coeficientes del mejor modelo para analizar la relación entre la respuesta y los predictores.
+️🔸 Interpretation of the coefficients of the best model to analyze the relationship between the response and the predictors.
 
 ```{tableofcontents}
 ```
